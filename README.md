@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on discord bots
+- 📫 How to reach me: jeremyluzzidev@gmail.com
+- 😄 Pronouns: He/Him
+
 <!--
 **JLuzz/JLuzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
