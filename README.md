@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning prompting
+- 🌱 I’m currently [learning prompting](https://learnprompting.org/) 🤖
 - 📫 How to reach me: jeremyluzzidev@gmail.com
 - 😄 Pronouns: He/Him
 
