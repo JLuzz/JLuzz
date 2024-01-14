@@ -1,6 +1,6 @@
 ![output](https://github.com/JLuzz/JLuzz/assets/6591748/11395389-91f8-4f95-9a7c-c75079a2f3a0)
 
-<sub>Generated using [github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal)</sub>
+<sup><sub>Generated using [github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal)</sub></sup>
 
 <!--
 **JLuzz/JLuzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
