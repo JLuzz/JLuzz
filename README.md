@@ -1,8 +1,5 @@
-### Hi there 👋
+![output](https://github.com/JLuzz/JLuzz/assets/6591748/11395389-91f8-4f95-9a7c-c75079a2f3a0)
 
-- 🌱 I’m currently [learning prompting](https://learnprompting.org/) 🤖
-- 📫 How to reach me: jeremyluzzidev@gmail.com
-- 😄 Pronouns: He/Him
 
 <!--
 **JLuzz/JLuzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
